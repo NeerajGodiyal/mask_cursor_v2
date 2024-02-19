@@ -80,43 +80,47 @@ export default function Home()
             <div className={styles.line1} >
               <div className={styles.word1} >
                 <div className={styles.char1} >
-                  i
+                  T
 
                 </div>
                 <div className={styles.char1} >
-                  n
+                  R
 
                 </div>
                 <div className={styles.char1} >
-                  n
+                  E
 
                 </div>
                 <div className={styles.char1} >
-                  o
+                  N
 
                 </div>
                 <div className={styles.char1} >
-                  v
+                  D
 
                 </div>
                 <div className={styles.char1} >
-                  a
+                  S
 
                 </div>
                 <div className={styles.char1} >
-                  t
+                  E
 
                 </div>
                 <div className={styles.char1} >
-                  i
+                  T
 
                 </div>
                 <div className={styles.char1} >
-                  v
+                  T
 
                 </div>
                 <div className={styles.char1} >
-                  e
+                  E
+
+                </div>
+                <div className={styles.char1} >
+                  R
 
                 </div>
 
@@ -209,24 +213,16 @@ export default function Home()
             NG
 
           </p>
-          <h1 className='flex items-center sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-neutral sm:relative sm:left-[18%] multi' >
+          <h1 className='flex items-center sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-neutral sm:relative sm:left-[18%]' >
             <div className={styles.line} >
               <span className={styles.marquee} >
                 <div className={styles.word} >
                   <div className={styles.char} >
-                    M
+                    S
 
                   </div>
                   <div className={styles.char} >
-                    U
-
-                  </div>
-                  <div className={styles.char} >
-                    L
-
-                  </div>
-                  <div className={styles.char} >
-                    T
+                    K
 
                   </div>
                   <div className={styles.char} >
@@ -234,9 +230,22 @@ export default function Home()
 
                   </div>
                   <div className={styles.char} >
-                    -
+                    L
 
                   </div>
+                  <div className={styles.char} >
+                    L
+
+                  </div>
+                  <div className={styles.char} >
+                    E
+
+                  </div>
+                  <div className={styles.char} >
+                    D
+
+                  </div>
+
 
                 </div>
 
@@ -250,41 +259,11 @@ export default function Home()
             <div className={styles.line1} >
               <div className={styles.word1} >
                 <div className={styles.char1} >
-                  D
-
-                </div>
-                <div className={styles.char1} >
                   I
 
                 </div>
-
                 <div className={styles.char1} >
-                  S
-
-                </div>
-
-                <div className={styles.char1} >
-                  C
-
-                </div>
-
-                <div className={styles.char1} >
-                  I
-
-                </div>
-
-                <div className={styles.char1} >
-                  P
-
-                </div>
-
-                <div className={styles.char1} >
-                  L
-
-                </div>
-
-                <div className={styles.char1} >
-                  I
+                  N
 
                 </div>
 
@@ -294,14 +273,36 @@ export default function Home()
                 </div>
 
                 <div className={styles.char1} >
-                  E
+                  O
 
                 </div>
 
                 <div className={styles.char1} >
-                  D
+                  V
 
                 </div>
+
+                <div className={styles.char1} >
+                  A
+
+                </div>
+
+                <div className={styles.char1} >
+                  T
+
+                </div>
+
+                <div className={styles.char1} >
+                  O
+
+                </div>
+
+                <div className={styles.char1} >
+                  R
+
+                </div>
+
+                
 
 
               </div>
@@ -357,6 +358,7 @@ export default function Home()
 
 
             </span>
+            
 
             <span className='text-[15px] font-NeueMontreal-Medium uppercase ml-[27px] xl:block hidden gooddesign' >
               <div className={styles.line2} >
@@ -364,6 +366,7 @@ export default function Home()
                   GOOD
 
                 </div>
+                
                 <div className={styles.word2} >
                   DESIGN
 
