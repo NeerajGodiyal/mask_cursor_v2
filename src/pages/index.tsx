@@ -39,7 +39,7 @@ export default function Home()
         onMouseLeave={() => {setIsHovered(false)}} 
          
         >
-          <p className='text-[13px] w-fit font-NeueMontreal-Bold tracking-[3px] uppercase relative md:left-64 self-center md:self-auto text-primary'>Neeraj Godiyal</p>
+          <p className='text-[18px] w-fit font-NeueMontreal-Bold font-extrabold tracking-[3px] uppercase relative md:left-64 self-center md:self-auto text-primary'>Neeraj Godiyal</p>
           <h1 className='flex items-center sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-primary sm:relative sm:left-[22%] multi'>
             
             <div className={styles.line}>
@@ -129,7 +129,7 @@ export default function Home()
             </div>
           </h1>
           <h1 className='text-primary relative sm:left-[22%] w-fit xl:flex xl:flex-row xl:items-center' >
-            <span className='sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-primary developer' >
+            <span className='sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-primary' >
               <div className={styles.line} >
                 <div className={styles.word} >
                   <div className={styles.char} >
@@ -174,7 +174,7 @@ export default function Home()
               </div>
 
             </span>
-            <span className='text-[15px] font-NeueMontreal-Medium uppercase ml-[27px] xl:block hidden gooddesign' >
+            <span className='text-[15px] font-NeueMontreal-Medium uppercase ml-[27px] xl:block hidden ' >
               <div className={styles.line2} >
                 <div className={styles.word2} >
                   IF
