@@ -76,7 +76,7 @@ export default function Home()
 
             </div>
           </h1>
-          <h1 className='whitespace-nowrap uppercase flex text-center items-center sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-primary disciplinary' >
+          <h1 className='whitespace-nowrap uppercase flex text-center items-center sm:font-NeueMontreal-Bold font-NeueMontreal-Medium xl:text-[120px] w-fit lg:text-[90px] sm:text-[80px] xs:text-[56px] text-[45px] xl:leading-[100px] lg:leading-[90px] xs:leading-[49px] sm:leading-[72px] text-primary' >
             <div className={styles.line1} >
               <div className={styles.word1} >
                 <div className={styles.char1} >
