@@ -46,29 +46,9 @@ export default function Home()
               <span className={styles.marquee} >
                 <div className={styles.word} >
                   <div className={styles.char} >
-                    T
+                    TALENTED
                   </div>
-                  <div className={styles.char} >
-                    A
-                  </div>
-                  <div className={styles.char} >
-                    L
-                  </div>
-                  <div className={styles.char} >
-                    E
-                  </div>
-                  <div className={styles.char} >
-                    N
-                  </div>
-                  <div className={styles.char} >
-                    T
-                  </div>
-                  <div className={styles.char} >
-                    E
-                  </div>
-                  <div className={styles.char} >
-                    D
-                  </div>
+
 
                 </div>
 
@@ -80,49 +60,10 @@ export default function Home()
             <div className={styles.line1} >
               <div className={styles.word1} >
                 <div className={styles.char1} >
-                  T
+                  TRENDSETTER
 
                 </div>
-                <div className={styles.char1} >
-                  R
 
-                </div>
-                <div className={styles.char1} >
-                  E
-
-                </div>
-                <div className={styles.char1} >
-                  N
-
-                </div>
-                <div className={styles.char1} >
-                  D
-
-                </div>
-                <div className={styles.char1} >
-                  S
-
-                </div>
-                <div className={styles.char1} >
-                  E
-
-                </div>
-                <div className={styles.char1} >
-                  T
-
-                </div>
-                <div className={styles.char1} >
-                  T
-
-                </div>
-                <div className={styles.char1} >
-                  E
-
-                </div>
-                <div className={styles.char1} >
-                  R
-
-                </div>
 
               </div>
 
@@ -133,41 +74,10 @@ export default function Home()
               <div className={styles.line} >
                 <div className={styles.word} >
                   <div className={styles.char} >
-                    D
+                    DEVELOPER
 
                   </div>
-                  <div className={styles.char} >
-                    E
 
-                  </div>
-                  <div className={styles.char} >
-                    V
-
-                  </div>
-                  <div className={styles.char} >
-                    E
-
-                  </div>
-                  <div className={styles.char} >
-                    L
-
-                  </div>
-                  <div className={styles.char} >
-                    O
-
-                  </div>
-                  <div className={styles.char} >
-                    P
-
-                  </div>
-                  <div className={styles.char} >
-                    E
-
-                  </div>
-                  <div className={styles.char} >
-                    R
-
-                  </div>
 
                 </div>
 
@@ -177,25 +87,10 @@ export default function Home()
             <span className='text-[15px] font-NeueMontreal-Medium uppercase ml-[27px] xl:block hidden ' >
               <div className={styles.line2} >
                 <div className={styles.word2} >
-                  IF
+                  IF THE PAY IS HONEST
 
                 </div>
-                <div className={styles.word2} >
-                  THE
 
-                </div>
-                <div className={styles.word2} >
-                  PAY
-
-                </div>
-                <div className={styles.word2} >
-                  IS
-
-                </div>
-                <div className={styles.word2} >
-                  HONEST
-
-                </div>
 
               </div>
 
@@ -218,33 +113,10 @@ export default function Home()
               <span className={styles.marquee} >
                 <div className={styles.word} >
                   <div className={styles.char} >
-                    S
+                    SKILLED
 
                   </div>
-                  <div className={styles.char} >
-                    K
 
-                  </div>
-                  <div className={styles.char} >
-                    I
-
-                  </div>
-                  <div className={styles.char} >
-                    L
-
-                  </div>
-                  <div className={styles.char} >
-                    L
-
-                  </div>
-                  <div className={styles.char} >
-                    E
-
-                  </div>
-                  <div className={styles.char} >
-                    D
-
-                  </div>
 
 
                 </div>
@@ -259,48 +131,10 @@ export default function Home()
             <div className={styles.line1} >
               <div className={styles.word1} >
                 <div className={styles.char1} >
-                  I
-
-                </div>
-                <div className={styles.char1} >
-                  N
+                  INNOVATOR
 
                 </div>
 
-                <div className={styles.char1} >
-                  N
-
-                </div>
-
-                <div className={styles.char1} >
-                  O
-
-                </div>
-
-                <div className={styles.char1} >
-                  V
-
-                </div>
-
-                <div className={styles.char1} >
-                  A
-
-                </div>
-
-                <div className={styles.char1} >
-                  T
-
-                </div>
-
-                <div className={styles.char1} >
-                  O
-
-                </div>
-
-                <div className={styles.char1} >
-                  R
-
-                </div>
 
                 
 
@@ -316,41 +150,10 @@ export default function Home()
               <div className={styles.line} >
                 <div className={styles.word} >
                   <div className={styles.char} >
-                    D
+                    DEVELOPER
 
                   </div>
-                  <div className={styles.char} >
-                    E
 
-                  </div>
-                  <div className={styles.char} >
-                    V
-
-                  </div>
-                  <div className={styles.char} >
-                    E
-
-                  </div>
-                  <div className={styles.char} >
-                    L
-
-                  </div>
-                  <div className={styles.char} >
-                    O
-
-                  </div>
-                  <div className={styles.char} >
-                    P
-
-                  </div>
-                  <div className={styles.char} >
-                    E
-
-                  </div>
-                  <div className={styles.char} >
-                    R
-
-                  </div>
 
                 </div>
 
@@ -363,22 +166,10 @@ export default function Home()
             <span className='text-[15px] font-NeueMontreal-Medium uppercase ml-[27px] xl:block hidden gooddesign' >
               <div className={styles.line2} >
                 <div className={styles.word2} >
-                  GOOD
+                  GOOD DESIGN IS HONEST
 
                 </div>
-                
-                <div className={styles.word2} >
-                  DESIGN
 
-                </div>
-                <div className={styles.word2} >
-                  IS
-
-                </div>
-                <div className={styles.word2} >
-                  HONEST
-
-                </div>
 
               </div>
 
